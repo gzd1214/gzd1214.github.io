@@ -32,9 +32,9 @@ defaults:
 
 
 
-url: "https://daniel1214.github.io"
+url: "https://daniel.github.io"
 # url: "http://daniel1214.xyz"
-imgrepo: "https://daniel1214.github.io/static/img"
+imgrepo: "https://daniel.github.io/static/img"
 
 # url: "http://127.0.0.1:4000"
 # imgrepo: "http://127.0.0.1:4000/static/img"
