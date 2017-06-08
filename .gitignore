@@ -1,2 +1,9 @@
-_site/
-.sass-cache/
+_site
+.sass-cache
+.idea/
+.idea
+.local
+_study
+.local/*
+node_modules/
+package.json
